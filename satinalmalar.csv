@@ -1,2 +1,5 @@
-Talep No,Tarih,Malzeme Adı,Miktar,Birim,Aciliyet,Tahmini Tutar,Para Birimi,Açıklama,Durum
-TLP0001,19.07.2026,Isıl İşlem Yağı,1000,Kg,Normal,2500.0,EURO (€),Açıklama Yok,Beklemede
+Talep No,Tarih,Malzeme Adı,Miktar,Birim,Aciliyet,Tahmini Tutar,Para Birimi,Açıklama,Durum,Birim Fiyat
+TLP0001,19.07.2026,Isıl İşlem Yağı,875,Kg,Normal,1968.75,EURO (€),Açıklama Yok,Beklemede,2.25
+TLP0002,19.07.2026,Reziztans Teli,20,Kg,Acil,600.0,EURO (€),İpsen 1 rezistans yapımı.,Sipariş Verildi,
+TLP0003,20.07.2026,12 mm 310S mil,5,Kg,Acil,35.0,USD ($),"İpsen Fırınlar Rezistan
+s yapımında kullanılacak.",Beklemede,7.0
