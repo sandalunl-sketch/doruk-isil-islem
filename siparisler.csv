@@ -1,0 +1,4 @@
+Sipariş ID,Tarih,İrsaliye No,Müşteri,Malzeme Adı,Adet,Brüt Miktar (KG),Dara (KG),Net Miktar (KG),Birim Fiyat,Para Birimi,Toplam Tutar,Kalite,Yapılacak İşlem,İstenen Sertlik,Termin,Resim Yolu,Durum,Fırın
+DRK0000001,19.07.2026,DR0001,Doruk Isıl İşlem,Dişli,2,180.0,1.2,178.8,63.0,TL (₺),11264.4,AISI/SEA 8620,SEMENTASYON,52-54 HRC,19.07.2026,resimler\DRK0000001.png,Tamamlandı,İpsen I
+DRK0000002,19.07.2026,Girilmedi,CMF Makina Sanayi ve Ticaret A.Ş.,Manşon,2,16.0,2.0,14.0,34.0,TL (₺),476.0,AISI/SEA 4140,ISLAH (SERTLEŞTİRME),34-38 HRC,19.07.2026,Resim Yok,İşlemde,İpsen II
+DRK0000003,19.07.2026,Girilmedi,Deltal Otomotiv San. Ve Tic. A.Ş,BMC İntake Manifold,3,24.0,0.0,24.0,1.8,EURO (€),43.2,EN AC 43200,ISLAH (SERTLEŞTİRME),Min:80 HB,19.07.2026,resimler\DRK0000003.png,İşlemde,Alüminyum Fırın

@@ -1,0 +1,2 @@
+siparisler.csv filter=lfs diff=lfs merge=lfs -text
+bakimlar.csv filter=lfs diff=lfs merge=lfs -text
